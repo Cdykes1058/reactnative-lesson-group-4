@@ -1,1 +1,12 @@
 Hello :)
+this is the syntax for the basic creation of a taskbar : 
+navbarContainer: {
+        height: deviceHeight/6,
+        width: deviceWidth,
+        backgroundColor: 'darkblue',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        borderTopWidth: 10,
+        borderColor: 'white',
+},
